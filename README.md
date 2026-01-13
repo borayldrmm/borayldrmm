@@ -51,9 +51,13 @@ Collection of learning projects demonstrating various Android concepts including
 
 ### 📊 GitHub Stats
 
-![Bora's GitHub Stats](https://github-readme-stats.vercel.app/api?username=borayldrmm&show_icons=true&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=borayldrmm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borayldrmm&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borayldrmm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
