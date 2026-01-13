@@ -51,9 +51,9 @@ Collection of learning projects demonstrating various Android concepts including
 
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=borayldrmm&color=blue&style=flat-square" alt="Profile views" />
-</p>
+
+![](https://komarev.com/ghpvc/?username=borayldrmm&color=blue&style=flat-square)
+
 
 📌 Check out my pinned repositories below to see my featured projects!
 
