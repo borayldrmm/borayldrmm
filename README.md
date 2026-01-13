@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi 👋, I'm Bora
 
-<!--
-**borayldrmm/borayldrmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Android Developer focused on building clean, maintainable, and modern Android applications.
 
-Here are some ideas to get you started:
+Currently working with Kotlin and Android ecosystem, improving my skills through real-world projects and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+Kotlin • Jetpack Compose • XML  
+MVVM • Clean Architecture  
+Hilt • Coroutines • RxJava  
+Retrofit • Room • DataStore  
+Firebase (Auth, Firestore)  
+Git • GitHub
+
+---
+
+### Featured Projects
+• **FoodieHub** – Modern food discovery app  
+  https://github.com/borayldrmm/FoodieHub
+
+• **BeautyDate** – Appointment tracking application  
+  https://github.com/borayldrmm/BeautyDate
+
+---
+
+### Connect
+LinkedIn: https://linkedin.com/in/borayldrmm  
+GitHub: https://github.com/borayldrmm
