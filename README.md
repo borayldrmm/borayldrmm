@@ -49,15 +49,13 @@ Collection of learning projects demonstrating various Android concepts including
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=borayldrmm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=borayldrmm&color=blue&style=flat-square" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borayldrmm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+📌 Check out my pinned repositories below to see my featured projects!
 
 ---
 
